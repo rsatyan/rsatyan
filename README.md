@@ -7,8 +7,11 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI-412991?style=flat-square&logo=openai&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-Building AI-powered tools for financial services. 30+ years leading technology in FinServ & Healthcare. Currently shipping CLI tools that let AI agents underwrite loans in seconds.
+Building AI-powered tools for financial services and productivity. 30+ years leading technology in FinServ & Healthcare. Currently shipping tools that make professionals faster.
+
+✨ [**Tessel**](https://gettessel.com) (closed source) — Lightning-fast clipboard transformer for macOS, Windows, and Linux. Copy anything, press a hotkey, get instant results. Background removal, PHI redaction, data cleaning, format conversion. 100% private, runs locally.
 
 ---
 
@@ -54,14 +57,6 @@ Works with **any LLM capable of tool/function calling**:
 | ⚖️ Compare | Multi-product comparison (personal vs HELOC vs refi) |
 | 📈 Credit Advisor | Score improvement strategies with savings projections |
 
-**How It Works:**
-```
-1. Agent receives loan application (JSON or conversational)
-2. Agent calls CLI tools via shell/exec
-3. Each tool returns structured JSON
-4. Agent synthesizes decision with full audit trail
-```
-
 ---
 
 ## 🌐 WebMCP
@@ -72,9 +67,9 @@ Works with **any LLM capable of tool/function calling**:
 
 ## What I'm Building
 
-- **AI-native lending tools** — Replacing $800/seat LOS software with open-source CLI tools
+- **Tessel** — Desktop productivity tool for instant clipboard transforms
+- **LendCtl** — AI-native lending tools replacing $800/seat LOS software
 - **Agentic workflows** — Tools designed for AI agents, not just humans
-- **Compliance-first** — Every decision logged, explained, auditable
 
 ---
 
