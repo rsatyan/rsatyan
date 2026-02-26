@@ -1,17 +1,34 @@
 # Hi, I'm Satyan 👋
 
-📍 Philadelphia, USA | 🏦 FinServ & Healthcare | 🤖 AI-Native Builder
+📍 **Philadelphia** | 🏦 **30+ yrs FinServ** (PNC, JPMorgan, Barclays) | 🎓 **MIT** | 🔬 **Patent Holder** | 🤖 **AI-Native Builder**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-412991?style=flat-square&logo=openai&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 
-Building AI-powered tools for financial services and productivity. 30+ years leading technology in FinServ & Healthcare. Currently shipping tools that make professionals faster.
+> Building AI-powered tools for financial services. 30+ years leading technology transformation at major banks. Now shipping tools that make professionals faster.
 
 ✨ [**Tessel**](https://gettessel.com) (closed source) — Lightning-fast clipboard transformer for macOS, Windows, and Linux. Copy anything, press a hotkey, get instant results. Background removal, PHI redaction, data cleaning, format conversion. 100% private, runs locally.
+
+---
+
+## 🔬 Patents
+
+| Patent | Title | Assignee |
+|--------|-------|----------|
+| [US 9245262](https://patents.google.com/patent/US9245262) | **Systems and methods for bookmark payment processing** | JPMorgan Chase |
+| [US 9811810](https://patents.google.com/patent/US9811810) | **Purchase data transmission and analysis system** | JPMorgan Chase |
+| [US 10453038](https://patents.google.com/patent/US10453038) | **Purchase data transmission and analysis system** (continuation) | JPMorgan Chase |
 
 ---
 
@@ -42,10 +59,9 @@ npm i -g finctl-cli creditctl mortctl autoloanctl persctl cardctl compctl auditc
 
 Works with **any LLM capable of tool/function calling**:
 - ✅ OpenAI (GPT-4, GPT-4o)
-- ✅ Anthropic (Claude 3.5, Claude 3)
-- ✅ Google (Gemini Pro, Gemini Ultra)
-- ✅ Open-source (Llama 3, Mixtral, Qwen)
-- ✅ Any model with shell/exec tool access
+- ✅ Anthropic (Claude 3.5, Claude Code)
+- ✅ Google (Gemini)
+- ✅ Open-source (Llama, Mixtral via Ollama)
 
 **6 Complete Workflows:**
 | Workflow | Description |
@@ -75,9 +91,9 @@ Works with **any LLM capable of tool/function calling**:
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyan-avatara-b853601/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rsatyan)
+[![LinkedIn](https://img.shields.io/badge/-Satyan%20Avatara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyan-avatara-b853601)
+[![Twitter](https://img.shields.io/badge/-@rsatyan-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rsatyan)
 
 ---
 
-*"The future of lending is open source + AI."*
+*Apache-2.0 © Avatar Consulting*
