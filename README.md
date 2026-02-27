@@ -28,6 +28,9 @@ Lightning-fast clipboard transformer for macOS, Windows, and Linux. Copy anythin
 ### 🩺 [ReachDR](https://reachdr.com)
 RTM, RPM & CCM billing automation for healthcare practices. Captures reimbursements you're already earning but not billing. Automatic time tracking, smart eligibility detection, one-click claims. **100% audit-ready.** *(closed source)*
 
+### 🪄 [MagicSQL](https://magicsql.ai)
+Text-to-SQL for everyone. Ask questions in plain English, get accurate SQL queries. Connect any database, get instant insights. No SQL knowledge required. *(closed source)*
+
 ### 💳 [Card Originations MCP](https://github.com/rsatyan/card-originations-mcp)
 Model Context Protocol server for credit card originations. Enables AI agents to run credit decisions, calculate limits, and generate compliance documentation via MCP.
 
@@ -106,6 +109,7 @@ Works with **any LLM capable of tool/function calling**: OpenAI, Anthropic, Goog
 
 - **Tessel** — Desktop productivity tool for instant clipboard transforms
 - **ReachDR** — RTM/RPM/CCM billing automation for healthcare practices
+- **MagicSQL** — Text-to-SQL that makes databases accessible to everyone
 - **LendCtl** — AI-native lending tools replacing $800/seat LOS software
 - **Agentic workflows** — Tools designed for AI agents, not just humans
 
