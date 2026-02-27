@@ -28,8 +28,8 @@ Lightning-fast clipboard transformer for macOS, Windows, and Linux. Copy anythin
 ### 🩺 [ReachDR](https://reachdr.com)
 RTM, RPM & CCM billing automation for healthcare practices. Captures reimbursements you're already earning but not billing. Automatic time tracking, smart eligibility detection, one-click claims. **100% audit-ready.** *(closed source)*
 
-### 🔍 [Fraud-Detection-Agent](https://github.com/rsatyan/Fraud-Detection-Agent)
-Multi-agent, LLM-powered fraud detection system for financial transactions. Real-time analysis with explainable decisions and full audit trails.
+### 💳 [Card Originations MCP](https://github.com/rsatyan/card-originations-mcp)
+Model Context Protocol server for credit card originations. Enables AI agents to run credit decisions, calculate limits, and generate compliance documentation via MCP.
 
 ### 🏦 [LendCtl AI](https://github.com/rsatyan/lendctl-ai)
 Your AI loan officer. Ask lending questions in plain English. Get instant, compliant decisions.
