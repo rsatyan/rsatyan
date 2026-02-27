@@ -23,7 +23,10 @@
 ## ✨ Featured Projects
 
 ### 🎨 [Tessel](https://gettessel.com)
-Lightning-fast clipboard transformer for macOS, Windows, and Linux. Copy anything, press a hotkey, get instant results. Background removal, PHI redaction, data cleaning, format conversion. **100% private, runs locally.**
+Lightning-fast clipboard transformer for macOS, Windows, and Linux. Copy anything, press a hotkey, get instant results. Background removal, PHI redaction, data cleaning, format conversion. **100% private, runs locally.** *(closed source)*
+
+### 🩺 [ReachDR](https://reachdr.com)
+AI-powered physician outreach platform. Automates referral relationship management, tracks engagement, and identifies growth opportunities for healthcare organizations. *(closed source)*
 
 ### 🏦 [LendCtl AI](https://github.com/rsatyan/lendctl-ai)
 Your AI loan officer. Ask lending questions in plain English. Get instant, compliant decisions.
@@ -99,6 +102,7 @@ Works with **any LLM capable of tool/function calling**: OpenAI, Anthropic, Goog
 ## What I'm Building
 
 - **Tessel** — Desktop productivity tool for instant clipboard transforms
+- **ReachDR** — AI-powered physician outreach for healthcare organizations
 - **LendCtl** — AI-native lending tools replacing $800/seat LOS software
 - **Agentic workflows** — Tools designed for AI agents, not just humans
 
