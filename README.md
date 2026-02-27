@@ -1,6 +1,6 @@
 # Hi, I'm Satyan 👋
 
-📍 **Philadelphia** | 🏦 **30+ yrs FinServ** (PNC, JPMorgan, Barclays) | 🔬 **Patent Holder** | 🤖 **AI-Native Builder**
+📍 **Philadelphia** | 🏦 **30+ yrs FinServ** (PNC, JPMorgan, Barclays) | 🔬 **11 Patents (7 issued, 4 pending)** | 🤖 **AI-Native Builder**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -42,8 +42,9 @@ lendctl-ai ask "Can I qualify for a $400k mortgage with $90k income and 720 cred
 
 ---
 
-## 🔬 Patents (7)
+## 🔬 Patents (7 Issued + 4 Pending)
 
+**Issued:**
 | Patent | Title | Year |
 |--------|-------|------|
 | [US 9245262](https://patents.google.com/patent/US9245262) | **Systems and methods for bookmark payment processing** | 2016 |
@@ -53,6 +54,8 @@ lendctl-ai ask "Can I qualify for a $400k mortgage with $90k income and 720 cred
 | [US 9230259](https://patents.google.com/patent/US9230259B1) | **Systems and methods for mobile ordering and payment** | 2016 |
 | [US 8645222](https://patents.google.com/patent/US8645222B1) | **System and methods for mobile ordering and payment** | 2014 |
 | [US 9886706](https://patents.google.com/patent/US9886706B2) | **Systems and methods for mobile ordering and payment** | 2018 |
+
+**Pending:** 4 additional patent applications in AI/ML and financial services
 
 ---
 
