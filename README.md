@@ -28,7 +28,7 @@ Lightning-fast clipboard transformer for macOS, Windows, and Linux. Copy anythin
 ### 🩺 [ReachDR](https://reachdr.com)
 RTM, RPM & CCM billing automation for healthcare practices. Captures reimbursements you're already earning but not billing. Automatic time tracking, smart eligibility detection, one-click claims. **100% audit-ready.** *(closed source)*
 
-### 🪄 [MagicSQL](https://magicsql.ai)
+### 🪄 [MagicSQL](https://magicsql.pleasehelpmyfamily.com)
 Text-to-SQL for everyone. Ask questions in plain English, get accurate SQL queries. Connect any database, get instant insights. No SQL knowledge required. *(closed source)*
 
 ### 💳 [Card Originations MCP](https://github.com/rsatyan/card-originations-mcp)
