@@ -99,6 +99,17 @@ Works with **any LLM capable of tool/function calling**: OpenAI, Anthropic, Goog
 
 ---
 
+## 🏛️ Payment & Compliance CLI Tools
+
+Open-source tools for financial services compliance. **Apache-2.0.**
+
+| Tool | Description |
+|------|-------------|
+| 🏦 [achctl](https://github.com/rsatyan/achctl) | **ACH File Processing** — Parse, validate, generate Nacha-format ACH files. All SEC codes supported. |
+| 🛡️ [sanctionctl](https://github.com/rsatyan/sanctionctl) | **OFAC/Sanctions Screening** — Check names against OFAC, UN, EU, UK sanctions lists. Fuzzy matching, risk scoring. |
+
+---
+
 ## 🌐 Other Projects
 
 - 🔧 [wmcp-annotate](https://github.com/rsatyan/wmcp-annotate) — CLI tool that generates WebMCP annotations for AI agents (W3C standard, Chrome 146+)
