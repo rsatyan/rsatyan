@@ -68,12 +68,12 @@ lendctl-ai ask "Can I qualify for a $400k mortgage with $90k income and 720 cred
 
 ---
 
-## 🏦 LendCtl Suite
+## 🏦 FinServ CLI Suite
 
-Open-source CLI tools for AI-powered loan origination. **8 tools, 165+ tests, Apache-2.0.**
+Open-source CLI tools for AI-powered lending and compliance. **10 tools, 200+ tests, Apache-2.0.**
 
 ```bash
-npm i -g finctl-cli creditctl mortctl autoloanctl persctl cardctl compctl auditctl
+npm i -g finctl-cli creditctl mortctl autoloanctl persctl cardctl compctl auditctl achctl sanctionctl
 ```
 
 | Tool | Description | npm |
@@ -86,27 +86,10 @@ npm i -g finctl-cli creditctl mortctl autoloanctl persctl cardctl compctl auditc
 | 💳 [cardctl](https://github.com/rsatyan/cardctl) | **Credit Card Decisioning** — Credit limit calculations, APR assignment, balance transfer analysis. | [![npm](https://img.shields.io/npm/v/cardctl.svg?style=flat-square)](https://npmjs.com/package/cardctl) |
 | ✅ [compctl](https://github.com/rsatyan/compctl) | **Compliance Checker** — TRID timing validation, ATR/QM safe harbor analysis, ECOA adverse action notices. | [![npm](https://img.shields.io/npm/v/compctl.svg?style=flat-square)](https://npmjs.com/package/compctl) |
 | 📝 [auditctl](https://github.com/rsatyan/auditctl) | **Audit Trail Manager** — Immutable logging with hash chaining, PII sanitization, exam-ready exports. | [![npm](https://img.shields.io/npm/v/auditctl.svg?style=flat-square)](https://npmjs.com/package/auditctl) |
+| 🏦 [achctl](https://github.com/rsatyan/achctl) | **ACH File Processing** — Parse, validate, generate Nacha-format ACH files. All SEC codes supported. | [![npm](https://img.shields.io/npm/v/achctl.svg?style=flat-square)](https://npmjs.com/package/achctl) |
+| 🛡️ [sanctionctl](https://github.com/rsatyan/sanctionctl) | **OFAC/Sanctions Screening** — Check names against OFAC, UN, EU, UK sanctions lists. Fuzzy matching, risk scoring. | [![npm](https://img.shields.io/npm/v/sanctionctl.svg?style=flat-square)](https://npmjs.com/package/sanctionctl) |
 
----
-
-## 🤖 LendCtl Skill — AI Agent Integration
-
-**[lendctl-skill](https://github.com/rsatyan/lendctl-skill)** — Production-ready skill for AI-powered loan origination.
-
-Works with **any LLM capable of tool/function calling**: OpenAI, Anthropic, Google, Ollama.
-
-**6 Complete Workflows:** Mortgage | Auto | Personal | Credit Card | Compare | Credit Advisor
-
----
-
-## 🏛️ Payment & Compliance CLI Tools
-
-Open-source tools for financial services compliance. **Apache-2.0.**
-
-| Tool | Description |
-|------|-------------|
-| 🏦 [achctl](https://github.com/rsatyan/achctl) | **ACH File Processing** — Parse, validate, generate Nacha-format ACH files. All SEC codes supported. |
-| 🛡️ [sanctionctl](https://github.com/rsatyan/sanctionctl) | **OFAC/Sanctions Screening** — Check names against OFAC, UN, EU, UK sanctions lists. Fuzzy matching, risk scoring. |
+**AI Agent Integration:** [lendctl-skill](https://github.com/rsatyan/lendctl-skill) — Production-ready skill for AI-powered loan origination. Works with OpenAI, Anthropic, Google, Ollama.
 
 ---
 
