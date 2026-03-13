@@ -31,6 +31,9 @@ RTM, RPM & CCM billing automation for healthcare practices. Captures reimburseme
 ### 🪄 [MagicSQL](https://magicsql.pleasehelpmyfamily.com)
 Text-to-SQL for everyone. Ask questions in plain English, get accurate SQL queries. Connect any database, get instant insights. No SQL knowledge required. *(closed source)*
 
+### 🏦 FinServ CLI Suite
+10 open-source CLI tools for lending, payments, and compliance. Income analysis, credit scoring, mortgage underwriting, ACH processing, sanctions screening. **200+ tests, Apache-2.0.** [See all tools →](#-finserv-cli-suite-1)
+
 ### 🏦 [LendCtl AI](https://github.com/rsatyan/lendctl-ai)
 Your AI loan officer. Ask lending questions in plain English. Get instant, compliant decisions.
 
