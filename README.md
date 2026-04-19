@@ -16,7 +16,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 
-> Building AI-powered tools for financial services. 30+ years leading technology transformation at major banks. Now shipping tools that make professionals faster.
+> Building AI-powered tools for financial services — and the agentic workflows that run them. 30+ years leading technology transformation at major banks. Now shipping tools that make professionals (and their agents) faster.
 
 ---
 
@@ -31,8 +31,8 @@ RTM, RPM & CCM billing automation for healthcare practices. Captures reimburseme
 ### 🪄 [MagicSQL](https://magicsql.pleasehelpmyfamily.com)
 Text-to-SQL for everyone. Ask questions in plain English, get accurate SQL queries. Connect any database, get instant insights. No SQL knowledge required. *(closed source)*
 
-### 🏦 FinServ CLI Suite
-10 open-source CLI tools for lending, payments, and compliance. Income analysis, credit scoring, mortgage underwriting, ACH processing, sanctions screening. **200+ tests, Apache-2.0.** [See all tools →](#-finserv-cli-suite-1)
+### 🖥️ [MainframeCrawl / terminalflow](https://github.com/rsatyan/terminalflow)
+The AI-native mainframe data & workflow API — *Firecrawl for 3270 green screens.* Turns fragile TN3270 screen-driving into repeatable, agent-ready workflows via REST + MCP. **Session pooling, screen parsing, structured output.**
 
 ### 🏦 [LendCtl AI](https://github.com/rsatyan/lendctl-ai)
 Your AI loan officer. Ask lending questions in plain English. Get instant, compliant decisions.
@@ -48,6 +48,22 @@ lendctl-ai ask "Can I qualify for a $400k mortgage with $90k income and 720 cred
 - ⚡ Answers in seconds, not days
 - ✅ Compliance-checked (QM/ATR, TRID, ECOA)
 - 📋 Full audit trail for every decision
+
+### 🏦 FinServ CLI Suite
+10 open-source CLI tools for lending, payments, and compliance. Income analysis, credit scoring, mortgage underwriting, ACH processing, sanctions screening. **200+ tests, Apache-2.0.** [See all tools →](#-finserv-cli-suite-1)
+
+---
+
+## 🧠 Claude Skills & Agentic Tools
+
+Small, sharp capabilities that turn a general-purpose assistant into a specialist. Paste a task, get finished work.
+
+| Skill | What it does |
+|---|---|
+| 🪞 [counterparty-mirror](https://github.com/rsatyan/counterparty-mirror) | Paste the email you're about to send. Claude replies *as the recipient* — showing how it actually lands before you hit send. Reaction, Volley, and Red Team modes. **Not knowledge encoding — role simulation.** |
+| ✈️ [cheap-business-class-finder](https://github.com/rsatyan/cheap-business-class-finder) | 8 creative pricing strategies — airport arbitrage, ex-EU origination, fifth-freedom, mistake fares, points/miles. **Typical savings: 30–70% off retail.** |
+| 🔌 [wmcp-annotate](https://github.com/rsatyan/wmcp-annotate) | CLI that generates WebMCP annotations automatically — lets AI agents drive any web app via the new W3C standard (Chrome 146+). |
+| 🧩 [lendctl-skill](https://github.com/rsatyan/lendctl-skill) | Production-ready skill for AI-powered loan origination. Works with OpenAI, Anthropic, Google, Ollama. |
 
 ---
 
@@ -89,14 +105,6 @@ npm i -g finctl-cli creditctl mortctl autoloanctl persctl cardctl compctl auditc
 | [achctl](https://github.com/rsatyan/achctl) | **ACH File Processing** — Parse, validate, generate Nacha-format ACH files. All SEC codes supported. | [![npm](https://img.shields.io/npm/v/achctl.svg?style=flat-square)](https://npmjs.com/package/achctl) |
 | [sanctionctl](https://github.com/rsatyan/sanctionctl) | **OFAC/Sanctions Screening** — Check names against OFAC, UN, EU, UK sanctions lists. Fuzzy matching, risk scoring. | [![npm](https://img.shields.io/npm/v/sanctionctl.svg?style=flat-square)](https://npmjs.com/package/sanctionctl) |
 
-**AI Agent Integration:** [lendctl-skill](https://github.com/rsatyan/lendctl-skill) — Production-ready skill for AI-powered loan origination. Works with OpenAI, Anthropic, Google, Ollama.
-
----
-
-## 🌐 Other Projects
-
-- 🔧 [wmcp-annotate](https://github.com/rsatyan/wmcp-annotate) — CLI tool that generates WebMCP annotations for AI agents (W3C standard, Chrome 146+)
-
 ---
 
 ## What I'm Building
@@ -105,6 +113,8 @@ npm i -g finctl-cli creditctl mortctl autoloanctl persctl cardctl compctl auditc
 - **ReachDR** — RTM/RPM/CCM billing automation for healthcare practices
 - **MagicSQL** — Text-to-SQL that makes databases accessible to everyone
 - **LendCtl** — AI-native lending tools replacing $800/seat LOS software
+- **MainframeCrawl** — Turning 3270 green screens into agent-ready APIs
+- **Claude Skills** — Small, sharp capabilities (email counterparty simulation, travel hacking, role-specific plugins) that make agents actually useful
 - **Agentic workflows** — Tools designed for AI agents, not just humans
 
 ---
