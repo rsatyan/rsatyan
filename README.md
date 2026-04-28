@@ -72,13 +72,13 @@ Small, sharp capabilities that turn a general-purpose assistant into a specialis
 **Issued:**
 | Patent | Title | Year |
 |--------|-------|------|
-| [US 9245262](https://patents.google.com/patent/US9245262) | **Systems and methods for bookmark payment processing** | 2016 |
-| [US 9811810](https://patents.google.com/patent/US9811810) | **Purchase data transmission and analysis system** | 2017 |
-| [US 10453038](https://patents.google.com/patent/US10453038) | **Purchase data transmission and analysis system** | 2019 |
-| [US 9779403](https://patents.google.com/patent/US9779403B2) | **Mobile fraud prevention system and method** | 2017 |
-| [US 9230259](https://patents.google.com/patent/US9230259B1) | **Systems and methods for mobile ordering and payment** | 2016 |
 | [US 8645222](https://patents.google.com/patent/US8645222B1) | **System and methods for mobile ordering and payment** | 2014 |
+| [US 9245262](https://patents.google.com/patent/US9245262) | **Systems and methods for bookmark payment processing** | 2016 |
+| [US 9230259](https://patents.google.com/patent/US9230259B1) | **Systems and methods for mobile ordering and payment** | 2016 |
+| [US 9811810](https://patents.google.com/patent/US9811810) | **Purchase data transmission and analysis system** | 2017 |
+| [US 9779403](https://patents.google.com/patent/US9779403B2) | **Mobile fraud prevention system and method** | 2017 |
 | [US 9886706](https://patents.google.com/patent/US9886706B2) | **Systems and methods for mobile ordering and payment** | 2018 |
+| [US 10453038](https://patents.google.com/patent/US10453038) | **Purchase data transmission and analysis system** | 2019 |
 
 **Pending:** 4 additional patent applications in AI/ML and financial services
 
