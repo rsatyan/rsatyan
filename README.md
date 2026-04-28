@@ -79,6 +79,7 @@ Small, sharp capabilities that turn a general-purpose assistant into a specialis
 | [US 9779403](https://patents.google.com/patent/US9779403B2) | **Mobile fraud prevention system and method** | 2017 |
 | [US 9886706](https://patents.google.com/patent/US9886706B2) | **Systems and methods for mobile ordering and payment** | 2018 |
 | [US 10453038](https://patents.google.com/patent/US10453038) | **Purchase data transmission and analysis system** | 2019 |
+| [https://patents.justia.com/patent/20260111953] | **Systems and Methods for Automatically Updating a Digital Application**|2024
 
 **Pending:** 4 additional patent applications in AI/ML and financial services
 
