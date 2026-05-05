@@ -60,6 +60,7 @@ Small, sharp capabilities that turn a general-purpose assistant into a specialis
 
 | Skill | What it does |
 |---|---|
+| $  [can-we-afford-another](https://github.com/rsatyan/can-we-afford-another) | A Claude Skill that stress-tests the four hardest financial decisions people face in 2026 — **before they make them**. |
 | 🪞 [counterparty-mirror](https://github.com/rsatyan/counterparty-mirror) | Paste the email you're about to send. Claude replies *as the recipient* — showing how it actually lands before you hit send. Reaction, Volley, and Red Team modes. **Not knowledge encoding — role simulation.** |
 | ✈️ [cheap-business-class-finder](https://github.com/rsatyan/cheap-business-class-finder) | 8 creative pricing strategies — airport arbitrage, ex-EU origination, fifth-freedom, mistake fares, points/miles. **Typical savings: 30–70% off retail.** |
 | 🔌 [wmcp-annotate](https://github.com/rsatyan/wmcp-annotate) | CLI that generates WebMCP annotations automatically — lets AI agents drive any web app via the new W3C standard (Chrome 146+). |
